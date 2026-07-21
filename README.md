@@ -61,37 +61,35 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-<table align="center">
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=py" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=sql" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=pandas" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=numpy" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=matplotlib" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=powerbi" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=excel" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=github" width="45"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=vscode" width="45"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ### 📈 Skill Proficiency
 
-<p align="center">
-  <img src="https://progress-bar.dev/95/?title=Python&width=250&color=FF2A85" /><br>
-  <img src="https://progress-bar.dev/90/?title=Machine%20Learning&width=250&color=D946EF" /><br>
-  <img src="https://progress-bar.dev/80/?title=Deep%20Learning&width=250&color=06B6D4" /><br>
-  <img src="https://progress-bar.dev/95/?title=SQL&width=250&color=FF2A85" /><br>
-  <img src="https://progress-bar.dev/50/?title=Power%20BI&width=250&color=D946EF" /><br>
-  <img src="https://progress-bar.dev/95/?title=Excel&width=250&color=06B6D4" /><br>
-  <img src="https://progress-bar.dev/90/?title=TensorFlow&width=250&color=FF2A85" /><br>
-  <img src="https://progress-bar.dev/95/?title=Pandas&width=250&color=D946EF" /><br>
-  <img src="https://progress-bar.dev/95/?title=NumPy&width=250&color=06B6D4" /><br>
-  <img src="https://progress-bar.dev/95/?title=Scikit-Learn&width=250&color=FF2A85" />
-</p>
+<table align="center">
+  <tr><td>Python</td><td><img src="https://img.shields.io/badge/95%25-FF2A85?style=flat-square"/></td></tr>
+  <tr><td>Machine Learning</td><td><img src="https://img.shields.io/badge/90%25-D946EF?style=flat-square"/></td></tr>
+  <tr><td>Deep Learning</td><td><img src="https://img.shields.io/badge/80%25-06B6D4?style=flat-square"/></td></tr>
+  <tr><td>SQL</td><td><img src="https://img.shields.io/badge/95%25-FF2A85?style=flat-square"/></td></tr>
+  <tr><td>Power BI</td><td><img src="https://img.shields.io/badge/50%25-D946EF?style=flat-square"/></td></tr>
+  <tr><td>Excel</td><td><img src="https://img.shields.io/badge/95%25-06B6D4?style=flat-square"/></td></tr>
+  <tr><td>TensorFlow</td><td><img src="https://img.shields.io/badge/90%25-FF2A85?style=flat-square"/></td></tr>
+  <tr><td>Pandas</td><td><img src="https://img.shields.io/badge/95%25-D946EF?style=flat-square"/></td></tr>
+  <tr><td>NumPy</td><td><img src="https://img.shields.io/badge/95%25-06B6D4?style=flat-square"/></td></tr>
+  <tr><td>Scikit-Learn</td><td><img src="https://img.shields.io/badge/95%25-FF2A85?style=flat-square"/></td></tr>
+</table>
 
 ---
 
@@ -143,7 +141,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Husnain-progs&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Husnain-progs&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
