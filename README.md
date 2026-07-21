@@ -1,4 +1,4 @@
-<img width="100%" src="top-banner.png" alt="Rana Husnain Ali - Data Scientist" />
+<img width="100%" src="top-banner-scan.gif" alt="Rana Husnain Ali - Data Scientist" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:D946EF,100:FF2A85&height=60&section=header" />
 
